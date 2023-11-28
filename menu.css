@@ -1,0 +1,210 @@
+.frame {
+    background-color: #232323;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .frame .div {
+    background-color: #232323;
+    width: 1440px;
+    height: 1024px;
+    position: relative;
+  }
+  
+  .frame .overlap {
+    position: absolute;
+    width: 1386px;
+    height: 865px;
+    top: 139px;
+    left: 27px;
+  }
+  
+  .frame .overlap-group {
+    position: absolute;
+    width: 1386px;
+    height: 865px;
+    top: 0;
+    left: 0;
+  }
+  
+  .frame .overlap-group-2 {
+    position: absolute;
+    width: 1168px;
+    height: 651px;
+    top: 0;
+    left: 109px;
+  }
+  
+  .frame .main-menu {
+    position: absolute;
+    width: 834px;
+    height: 554px;
+    flex-shrink: 0;
+    border-radius: 0px 0px 270px 270px;
+    left: 167px;
+    object-fit: cover;
+  }
+  
+  .frame .soup {
+    position: absolute;
+    width: 218px;
+    height: 218px;
+    top: 433px;
+    left: 0;
+    border-radius: 143px;
+    object-fit: cover;
+  }
+  
+  .frame .beverages {
+    position: absolute;
+    width: 218px;
+    height: 218px;
+    top: 433px;
+    left: 950px;
+    border-radius: 143px;
+    object-fit: cover;
+  }
+  
+  .frame .desserts {
+    position: absolute;
+    width: 218px;
+    height: 218px;
+    top: 0;
+    left: 1168px;
+    border-radius: 143px;
+    object-fit: cover;
+  }
+  
+  .frame .appetizer {
+    position: absolute;
+    width: 218px;
+    height: 218px;
+    top: 0;
+    left: 0;
+    border-radius: 143px;
+    object-fit: cover;
+  }
+  
+  .frame .text-wrapper {
+    position: absolute;
+    top: 227px;
+    left: 23px;
+    font-family: "Leckerli One", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 40px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .frame .text-wrapper-2 {
+    position: absolute;
+    top: 227px;
+    left: 1205px;
+    font-family: "Leckerli One", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 40px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .frame .overlap-2 {
+    position: absolute;
+    width: 227px;
+    height: 271px;
+    top: 594px;
+    left: 580px;
+  }
+  
+  .frame .main-course {
+    position: absolute;
+    width: 218px;
+    height: 218px;
+    top: 0;
+    left: 4px;
+    border-radius: 143px;
+    object-fit: cover;
+  }
+  
+  .frame .text-wrapper-3 {
+    position: absolute;
+    top: 217px;
+    left: 0;
+    font-family: "Leckerli One", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 40px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .frame .text-wrapper-4 {
+    position: absolute;
+    top: 660px;
+    left: 154px;
+    font-family: "Leckerli One", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 40px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .frame .text-wrapper-5 {
+    position: absolute;
+    top: 660px;
+    left: 1078px;
+    font-family: "Leckerli One", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 40px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .frame .dropdown {
+    position: absolute;
+    width: 82px;
+    height: 70px;
+    top: 25px;
+    left: 28px;
+    object-fit: cover;
+  }
+  
+  .frame .text-wrapper-6 {
+    position: absolute;
+    width: 459px;
+    top: 13px;
+    left: 141px;
+    font-family: "Leckerli One", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 64px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .frame .search-wrapper {
+    position: absolute;
+    width: 340px;
+    height: 78px;
+    top: 25px;
+    left: 1073px;
+    background-color: #ffffff;
+    border-radius: 53px;
+  }
+  
+  .frame .search {
+    position: absolute;
+    width: 64px;
+    height: 62px;
+    top: 8px;
+    left: 9px;
+    border-radius: 100px;
+    object-fit: cover;
+  }
+  
